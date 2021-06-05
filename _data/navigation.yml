@@ -10,5 +10,7 @@ main:
     url: /year-archive/
   - title: "Experience"
     url: /collection-archive/
+  - title: "Gallery"
+    url: /collection-archive/
   - title: "Contact"
     url: /sitemap/
